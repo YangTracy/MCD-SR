@@ -50,7 +50,7 @@ network_g:
   mlp_ratio: 2
   upsampler: 'pixelshuffle'
   resi_connection: '1conv'
-  dropout_rate: 0.5
+  dropout_rate: 0.1
 
 # path
 path:
